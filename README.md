@@ -28,4 +28,4 @@ Time Spended
 
 About 6 hours
 
-**You can find the website **[here](https://knownasdon.github.io/SchoolWebsite)**.
+**You can find the website [here](https://knownasdon.github.io/SchoolWebsite)**.
