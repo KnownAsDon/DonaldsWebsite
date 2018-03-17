@@ -6,6 +6,8 @@ website project** that you can find in his
 **[github](http://github.com/knownasdon)**. This is made for school purposes and
 is free to use.
 
+
+
 Software Used
 ---
 
@@ -15,9 +17,11 @@ Terminal: Gnome-Terminal, URXVt
 Browser Used: Pale Moon
 Debugging: Using Python 3.6 Server
 
+
+
 Time Spended
 ---
 
 About 6 hours
 
-**You can find the website [here](theghostfromshadow.000webhostapp.com)**
+**You can find the website [here](theghostfromshadow.000webhostapp.com)**.
