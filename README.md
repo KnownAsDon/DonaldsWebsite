@@ -1,5 +1,9 @@
-Donald's Website
+School Website 
 ===
+Beta 1.0
+
+For best performance you will have to use it in **1366 X 768** because that's for what it was designed and other
+resolutions can have a lot of bugs. It will be compatible with more resolutions in future versions.
 
 This is a website made my KnownAsDon. **It has nothing to do with he's original
 website project** that you can find in his
