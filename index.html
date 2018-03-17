@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>DW</title>
+  <link rel="shortcut icon" href="images/favico.ico">
+  <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+ <body>
+  <div class="main">
+   <div class="header">
+    <ul>
+     <li><a href="">Home</a></li>
+     <div class="popup" onclick="myPopFun()">
+      <li class="about">About</li>
+      <span class="popuptext" id="myPopup">Just a guy who loves computers...</span>
+     </div>
+     <li><a href="#contact">Contact</a></li>
+    </ul>
+    <div class="prs">
+     <h3>Donald's Website</h3>
+     <h6>Cyber Security Admirer</h6>
+    </div>
+   </div>
+   <div class="sm">
+    <h2><span>Follow me</span> on <span>social</span> medias!</h2>
+    <ul>
+     <li><a href=""><span>Facebook</span> | Donald Anxhelo Malo</a></li>
+     <li><a href="">&nbsp&nbsp&nbsp&nbsp&nbsp<span>Instagram</span> | mrdonaldmalo</a></li>
+     <li><a
+            href="">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span>Tumblr</span>
+      | KnownAsDon</a></li>
+   </div>
+   <div class="github">
+    <h1>Also check out my GitHub!</h1>
+    <p>You can even get<br>
+    the source code<br>
+    of this webpage at<p>
+    <h3>github.com/knownasdon/schoolwebsite</h3>
+    <p class="hidden"></p>
+   </div>
+   <a name="contact"></a>
+   <div class="contact">
+    <h3>Contact Me!</h3>
+    <form>
+     <span class="fs">Email</span><br><input type"text" name="email"
+     class="email" autocomplete="off"><br>
+     <p class="hidden"></p>
+     <span class="fs">Message you want to send</span><br><textarea rows="4" cols="50" autocomplete="off">
+     </textarea><br>
+      <input type="submit" value="Send" class="send">
+    </form>
+   </div>
+   <div class="footer">
+    <h1>Copyright © 2018 Donald Malo</h1>
+   </div>
+  </div>
+  <script>
+  function myPopFun() {
+      var popup = document.getElementById("myPopup");
+      popup.classList.toggle("show");
+  }
+  </script>
+ </body>
+</html>
