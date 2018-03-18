@@ -15,11 +15,11 @@ is free to use.
 Software Used
 ---
 
-Operating System : Manjaro i3
-Editor: NeoVim
-Terminal: Gnome-Terminal, URXVt
-Browser Used: Pale Moon
-Debugging: Using Python 3.6 Server
+Operating System : Manjaro i3<br>
+Editor: NeoVim<br>
+Terminal: Gnome-Terminal, URXVt<br>
+Browser Used: Pale Moon<br>
+Debugging: Using Python 3.6 Server<br>
 
 
 
